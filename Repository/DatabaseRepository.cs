@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
+\\type your all text information
 using System.Text;
 using System.Threading.Tasks;
 
